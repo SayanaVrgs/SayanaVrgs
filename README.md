@@ -12,7 +12,7 @@ I am all about harnessing the formidable power of AI algorithms to unravel solut
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/sayanavarughese" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="www.linkedin.com/in/sayanavarughese" height="30" width="80" /></a>
+<a href="https://www.linkedin.com/in/sayanavarughese/" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="www.linkedin.com/in/sayanavarughese" height="30" width="80" /></a>
 <a href=mailto:sayana.vrgs@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="sayana.vrgs@gmail.com" height="30" width="60" /></a>
 </p>
 
