@@ -1,4 +1,4 @@
-![logo](https://github.com/SayanaVrgs/SayanaVrgs/blob/main/Github%20Banner.png)
+![logo](https://github.com/SayanaVrgs/SayanaVrgs/blob/main/Github%20banner%20main.png)
 <h1 align="center">Hello there, welcome to my page👋 </h1>
 <h3 align="center">AI Engineer | ML Engineer | AI Grad Student</h3>
 
