@@ -1,4 +1,4 @@
-<h1 align="center">Hello there, welcome to my page👋 I am Sayana Varughese</h1>
+<h1 align="center">Hello there, welcome to my page👋 </h1>
 <h3 align="center">AI Engineer | ML Engineer | AI Grad Student</h3>
 
 I am a mother of two, brimming with enthusiasm, and currently embarked on a thrilling journey of rediscovering my fervor for coding, development, and the intricate world of artificial intelligence. Currently, I am a graduate student at the University of Guelph, diligently advancing through the second year of my Master of Science in Computer Science + Artificial Intelligence program.
