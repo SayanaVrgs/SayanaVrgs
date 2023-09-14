@@ -23,3 +23,12 @@ I am all about harnessing the formidable power of AI algorithms to unravel solut
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SayanaVrgs&theme=dark&background=000000)](https://git.io/streak-stats)
 
+## Projects
+
+1. [Comparison of Machine Learning and AI algorithms for Covid literature classification](https://github.com/SayanaVrgs/Comparison_of_Machine_Learning_and_AI_algorithms_for_Covid_literature_classification)
+This project deals with the implementation of supervised machine learning algorithms, unsupervised machine learning algorithms, and transformers such as  BERT and BIOBERT, with an aim to evaluate and differentiate the performance of the developed models in accurately classifying extensive volumes of COVID-related literature.
+Components involved: Numpy, Decision Trees, SVM, Logistic Regression, Doc2Vec, BERT, BioBERT, Tensorflow/ Keras
+
+2. [AI for Enhancing Electronic Monitoring of Fishing Vessels](https://github.com/SayanaVrgs/AI_for_Enhancing_Electronic_Monitoring_of_Fishing_Vessels/tree/main)
+A team-based project involving the creation and deployment of ResNet-based models designed to detect fishing activities, with the primary goal of combating illegal fishing and enhancing monitoring initiatives. 
+Components involved: Fishnet Open Images Database, ResNet model, Numpy, Core Python
