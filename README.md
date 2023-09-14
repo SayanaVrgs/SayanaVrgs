@@ -30,7 +30,12 @@ I am all about harnessing the formidable power of AI algorithms to unravel solut
 This project deals with the implementation of supervised machine learning algorithms, unsupervised machine learning algorithms, and transformers such as  BERT and BIOBERT, with an aim to evaluate and differentiate the performance of the developed models in accurately classifying extensive volumes of COVID-related literature.
 Components involved: Numpy, Decision Trees, SVM, Logistic Regression, Doc2Vec, BERT, BioBERT, Tensorflow/ Keras
 
-2. [AI for Enhancing Electronic Monitoring of Fishing Vessels](https://github.com/SayanaVrgs/AI_for_Enhancing_Electronic_Monitoring_of_Fishing_Vessels/tree/main)
+2. [AI for Enhancing Electronic Monitoring of Fishing Vessels](https://github.com/SayanaVrgs/AI_for_Enhancing_Electronic_Monitoring_of_Fishing_Vessels)
+
+A team-based project involving the creation and deployment of ResNet-based models designed to detect fishing activities, with the primary goal of combating illegal fishing and enhancing monitoring initiatives. 
+Components involved: Fishnet Open Images Database, ResNet model, Numpy, Core 
+
+3. [Detection of facial landmarks in thermal images using Computer Vision models](https://github.com/SayanaVrgs/Detection_of_facial_landmarks_in_thermal_images_using_Computer_Vision_models)
 
 A team-based project involving the creation and deployment of ResNet-based models designed to detect fishing activities, with the primary goal of combating illegal fishing and enhancing monitoring initiatives. 
 Components involved: Fishnet Open Images Database, ResNet model, Numpy, Core Python
