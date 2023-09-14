@@ -28,14 +28,17 @@ I am all about harnessing the formidable power of AI algorithms to unravel solut
 1. [Comparison of Machine Learning and AI algorithms for Covid literature classification](https://github.com/SayanaVrgs/Comparison_of_Machine_Learning_and_AI_algorithms_for_Covid_literature_classification)
 
 This project deals with the implementation of supervised machine learning algorithms, unsupervised machine learning algorithms, and transformers such as  BERT and BIOBERT, with an aim to evaluate and differentiate the performance of the developed models in accurately classifying extensive volumes of COVID-related literature.
-Components involved: Numpy, Decision Trees, SVM, Logistic Regression, Doc2Vec, BERT, BioBERT, Tensorflow/ Keras
+
+_Components involved: Numpy, Decision Trees, SVM, Logistic Regression, Doc2Vec, BERT, BioBERT, Tensorflow/ Keras_
 
 2. [AI for Enhancing Electronic Monitoring of Fishing Vessels](https://github.com/SayanaVrgs/AI_for_Enhancing_Electronic_Monitoring_of_Fishing_Vessels)
 
 A team-based project involving the creation and deployment of ResNet-based models designed to detect fishing activities, with the primary goal of combating illegal fishing and enhancing monitoring initiatives. 
-Components involved: Fishnet Open Images Database, ResNet model, Numpy, Core 
+
+_Components involved: Fishnet Open Images Database, ResNet model, Numpy, Core Python_
 
 3. [Detection of facial landmarks in thermal images using Computer Vision models](https://github.com/SayanaVrgs/Detection_of_facial_landmarks_in_thermal_images_using_Computer_Vision_models)
 
-A team-based project involving the creation and deployment of ResNet-based models designed to detect fishing activities, with the primary goal of combating illegal fishing and enhancing monitoring initiatives. 
-Components involved: Fishnet Open Images Database, ResNet model, Numpy, Core Python
+Conducted a comparative analysis of the outcomes achieved in facial landmark detection using established computer vision models, including Haar-cascade, Dlib, Caffe, and MSTNN, highlighting their similarities and differences.
+
+_Components involved: Python, OpenCV, numpy, Dlib, MTCNN_
