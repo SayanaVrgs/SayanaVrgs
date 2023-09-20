@@ -21,7 +21,7 @@ I am all about harnessing the formidable power of AI algorithms to unravel solut
 
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SayanaVrgs&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=SayanaVrgs)](https://git.io/streak-stats)
 
 ## Projects
 
