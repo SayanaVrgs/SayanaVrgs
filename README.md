@@ -31,7 +31,7 @@ _Components involved: Numpy, Decision Trees, SVM, Logistic Regression, Doc2Vec, 
 
 A team-based project involving the creation and deployment of ResNet-based models designed to detect fishing activities, with the primary goal of combating illegal fishing and enhancing monitoring initiatives. 
 
-_Components involved: Fishnet Open Images Database, ResNet model, Numpy, Core Python_
+_Components involved: Fishnet Open Images Database, ResNet model, Numpy, Core Python, Tensorflow-Keras_
 
 3. [Detection of facial landmarks in thermal images using Computer Vision models](https://github.com/SayanaVrgs/Detection_of_facial_landmarks_in_thermal_images_using_Computer_Vision_models)
 
