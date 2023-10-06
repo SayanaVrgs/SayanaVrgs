@@ -25,7 +25,7 @@ I am all about harnessing the formidable power of AI algorithms to unravel solut
 
 This project deals with the implementation of supervised machine learning algorithms, unsupervised machine learning algorithms, and transformers such as  BERT and BIOBERT, with an aim to evaluate and differentiate the performance of the developed models in accurately classifying extensive volumes of COVID-related literature.
 
-_Components involved: Numpy, Decision Trees, SVM, Logistic Regression, Doc2Vec, BERT, BioBERT, Tensorflow/ Keras_
+_Components involved: Numpy, Decision Trees, SVM, Logistic Regression, Doc2Vec, BERT, BioBERT, Pytorch_
 
 2. [AI for Enhancing Electronic Monitoring of Fishing Vessels](https://github.com/SayanaVrgs/AI_for_Enhancing_Electronic_Monitoring_of_Fishing_Vessels)
 
