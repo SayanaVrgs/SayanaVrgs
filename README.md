@@ -2,9 +2,14 @@
 <h1 align="center">Hello there, welcome to my page👋 </h1>
 <h3 align="center">AI Engineer | ML Engineer | AI Grad Student</h3>
 
-I, an enthusiastic AI graduate and a seasoned QA professional, am on a thrilling journey of rediscovering my fervor for coding, development, and artificial intelligence. Currently, I am a graduate student at the University of Guelph, diligently advancing through the second year of my Master of Science in Computer Science + Artificial Intelligence program.
+I, an enthusiastic AI graduate and a seasoned QA professional, am on a thrilling journey of rediscovering my fervor for coding, development, and artificial intelligence. Currently, I am Masters defended student at the University of Guelph, graduating my Master of Science in Computer Science + Artificial Intelligence program in Feb 2025. 
 
 I am all about harnessing the formidable power of AI algorithms to unravel solutions and glean insights into a myriad of contemporary issues, big or small. Drawing from my nearly decade-long career as a quality assurance consultant, I am keen to amalgamate my wealth of experience with my extensive knowledge in machine learning and deep learning, with the ultimate goal of delivering pragmatic and innovative business solutions to tackle real-world challenges.
+
+My then-ongoing work has been recognized with the acceptance of a paper and poster presentation at the [37th Canadian Conference on Artificial Intelligence(Canadian AI 2024)](https://caiac.pubpub.org/pub/e5zoxjte/release/1).
+
+My thesis work can be viewed [here](https://atrium.lib.uoguelph.ca/items/a65d2992-b92e-41ce-842d-a86d0836d552).
+
 
 <img align="right" alt="coding_lady" width="500" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
 
@@ -18,6 +23,12 @@ I am all about harnessing the formidable power of AI algorithms to unravel solut
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+
+
+
+
+
+
 
 ## Thesis
 [AI SOLUTION FOR NON-INVASIVE MONITORING OF ESSENTIAL BIO-SIGNAL MARKER (BREATHING RATE)](https://github.com/SayanaVrgs/AI_SOLUTION__BIO-SIGNAL_MARKER)
