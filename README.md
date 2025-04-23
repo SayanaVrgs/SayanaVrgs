@@ -1,6 +1,6 @@
 ![logo](https://github.com/SayanaVrgs/SayanaVrgs/blob/main/Github%20banner%20main.png)
 <h1 align="center">Hello there, welcome to my page👋 </h1>
-<h3 align="center">AI Engineer | ML Engineer | AI Graduate (soon) </h3>
+<h3 align="center">AI Engineer | ML Engineer | AI Graduate </h3>
 
 I, an enthusiastic AI graduate and a seasoned QA professional, am on a thrilling journey of rediscovering my fervor for coding, development, and artificial intelligence. Currently, I am Masters defended student at the University of Guelph, graduating my Master of Science in Computer Science + Artificial Intelligence program in Feb 2025. 
 
