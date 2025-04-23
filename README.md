@@ -2,7 +2,7 @@
 <h1 align="center">Hello there, welcome to my page👋 </h1>
 <h3 align="center">AI Engineer | ML Engineer | AI Graduate </h3>
 
-I, an enthusiastic AI graduate and a seasoned QA professional, am on a thrilling journey of rediscovering my fervor for coding, development, and artificial intelligence. Currently, I am Masters defended student at the University of Guelph, graduating my Master of Science in Computer Science + Artificial Intelligence program in Feb 2025. 
+I, an enthusiastic AI graduate and a seasoned QA professional, am on a thrilling journey of rediscovering my fervor for coding, development, and artificial intelligence. Currently, I am Masters Graduate from the University of Guelph - Master of Science in Computer Science + Artificial Intelligence program in Feb 2025. 
 
 I am all about harnessing the formidable power of AI algorithms to unravel solutions and glean insights into a myriad of contemporary issues, big or small. Drawing from my nearly decade-long career as a quality assurance consultant, I am keen to amalgamate my wealth of experience with my extensive knowledge in machine learning and deep learning, with the ultimate goal of delivering pragmatic and innovative business solutions to tackle real-world challenges.
 
